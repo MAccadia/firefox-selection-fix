@@ -1,3 +1,6 @@
+**Note : legacy README below. This fork add the ability to fix https://bugzilla.mozilla.org/show_bug.cgi?id=1653191**
+
+
 # Firefox Selection Fix – Click will no longer select all in your URL bar
 
 A script that disables the broken `clickSelectsAll` behavior of Firefox.
